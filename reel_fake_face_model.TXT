@@ -1,0 +1,11 @@
+////////////////////////////////////////
+
+model url : https://colab.research.google.com/drive/1ef1yRUMVNWxnZ-bAhbvxGDX9Bvm5gJPA?usp=sharing
+
+// Used Pytorch model //
+
+dataset url : https://drive.google.com/drive/folders/1WLO3nMXIXWCojtCnfAwr5gRTmGMwtU3f?usp=sharing
+
+// Dataset is taken from kaggle // 
+
+////////////////////////////////////////
