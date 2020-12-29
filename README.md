@@ -2,4 +2,4 @@
 
 // Made in Google Colab //
 
-Pytorch model that detects if it's fake or real
+Pytorch model that detects the image if it's fake or real
